@@ -1,4 +1,3 @@
-![-A Junior Web Developer]
 ### Hi there 👋, My name is Moinuddin Rabi
 #### -A Junior Web Developer
 
